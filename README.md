@@ -9,21 +9,21 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m have worked on **[Codekaro](https://codeekaro.netlify.app/)
+- 🔭 I’m have worked on [Codekaro](https://codeekaro.netlify.app/)
 
-- 🔭 I’m have worked on **[CryptoRush](https://cryptorushh.netlify.app/)
+- 🔭 I’m have worked on [CryptoRush](https://cryptorushh.netlify.app/)
 
-- 🔭 I’m have worked on **[OpenDevCons](https://modest-jackson-89e223.netlify.app/)
+- 🔭 I’m have worked on [OpenDevCons](https://modest-jackson-89e223.netlify.app/)
 
 - 🌱 I’m currently learning **Data Structures and Algorithms**
 
-- 👨‍💻 All of my projects are available at **[Github](https://github.com/Abh1shekSingh/)
+- 👨‍💻 All of my projects are available at [Github](https://github.com/Abh1shekSingh/)
 
 - 💬 Ask me about **React, Web and MERN**
 
 - 📫 How to reach me **abhinav210702@gmail.com**
 
-- 📄 Know about my experiences **[Resume](https://drive.google.com/file/d/1tqRMCQP1My5vcowOWVNSzGXqWOsSGRB1/view?usp=sharing)
+- 📄 Know about my experiences **[Resume](https://drive.google.com/file/d/1tqRMCQP1My5vcowOWVNSzGXqWOsSGRB1/view?usp=sharing)**
 
 - ⚡ Fun fact **I am Overthinker xD**
 
