@@ -17,13 +17,13 @@
 
 - 🌱 I’m currently learning **Data Structures and Algorithms**
 
-- 👨‍💻 All of my projects are available at [https://github.com/Abh1shekSingh/](https://github.com/Abh1shekSingh/)
+- 👨‍💻 All of my projects are available at [Github](https://github.com/Abh1shekSingh/)
 
 - 💬 Ask me about **React, Web and MERN**
 
 - 📫 How to reach me **abhinav210702@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1tqRMCQP1My5vcowOWVNSzGXqWOsSGRB1/view?usp=sharing](https://drive.google.com/file/d/1tqRMCQP1My5vcowOWVNSzGXqWOsSGRB1/view?usp=sharing)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1tqRMCQP1My5vcowOWVNSzGXqWOsSGRB1/view?usp=sharing)
 
 - ⚡ Fun fact **I am Overthinker xD**
 
